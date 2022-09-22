@@ -7,7 +7,6 @@ just-tech-news
 * [Description](#description)
 * [Technologies](#technologies)
 * [Preview](#preview)
-* [Website-link](#website-link)
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [license](#license)
@@ -27,10 +26,8 @@ A tech news website where users can post, upvote, and comment on links to news a
 * Node.js
 
 ## Preview
+<img width="1139" alt="Screen Shot 2022-09-22 at 12 57 54 PM" src="https://user-images.githubusercontent.com/96749114/191807530-c2fa9753-a402-490f-8daf-69867cb63a81.png">
 
-## Website Link
-
-https://boris-veselov.github.io/photo-booth-show/
 
 ## Usage
 
